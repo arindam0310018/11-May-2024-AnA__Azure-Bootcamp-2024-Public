@@ -4,7 +4,7 @@ Greetings to my fellow Technology Advocates and Specialists.
 
 | __PRESENTATION TOPIC:-__ |
 | --------- |
-| __One of the Session in Azure Bootcamp Switzerland 2024 got cancelled at the last moment. Because of that, Oragnisers, immediately arranged alast minute impromptu Session - "ASK THE EXPERT".__ |
+| __One of the Session in Azure Bootcamp Switzerland 2024 got cancelled at the last moment. Because of that, Organisers, immediately arranged alast minute impromptu Session - "ASK THE EXPERT".__ |
 | __I volunteered to be one of the Expert for the Session.__ |
 | __Question Asked by the audiences were on__ 1.) Landing Zone, 2.) Terraform, 3.) Why Terraform and Not Biceps, 4.) Azure Devops Pipelines, and 5.) Github |
 
