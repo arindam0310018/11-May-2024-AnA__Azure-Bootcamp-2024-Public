@@ -17,6 +17,6 @@ Greetings to my fellow Technology Advocates and Specialists.
 | 2. | Marcel Zehner |
 | 3. | Arindam Mitra |
 
-| __IMPORMPTU SPEAKER SESSSION - IN ACTION:-__ |
+| __IMPROMPTU SPEAKER SESSSION - IN ACTION:-__ |
 | --------- |
 | ![image](https://github.com/user-attachments/assets/b82eaff8-9b12-43ef-baa9-15f06b0fd38f) |
